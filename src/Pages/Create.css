@@ -1,0 +1,9 @@
+.create-card{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.details{
+    overflow: hidden;
+    margin-bottom: 150px !important;
+}

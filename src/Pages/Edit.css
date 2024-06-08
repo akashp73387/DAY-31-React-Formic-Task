@@ -1,0 +1,11 @@
+.edit-card{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-header{
+    color: rgb(8, 156, 210);
+}
+.text-color{
+    color: rgb(39, 10, 121);
+}
