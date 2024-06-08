@@ -7,3 +7,5 @@ To edit the user data click the edit button in the Manage page which redirects t
 To delete a user data click the delete button in the Manage page and the particular user data will immediately get deleted from the api.
 To create a new user navigate click the create button either in side bar or footer of website.
 Deployed the Work in Netilfy
+
+https://0react-formic-task.netlify.app/
